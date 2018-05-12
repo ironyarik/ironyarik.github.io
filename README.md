@@ -1,8 +1,5 @@
 <html>
 <head>
-	<title>
-		Carlsberg
-	</title>
 </head>
 <body bgcolor="#FFFFE0">
 	<center>
